@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/Spsepl/EV-Customer/blob/e71e09d20c07992da6628ad50ccd7d203360a790/logo.png)
+![Image Alt](https://github.com/Spsepl/EV-Customer/blob/b46b695b51186e8702a92f8c2b64c33febcc8211/logo.png)
 # Live Customer List
 
 A simple web application to manage a live list of customers, including add, edit, and delete functionalities. The interface is built using Bootstrap 4 and jQuery for dynamic table operations and modal forms.
