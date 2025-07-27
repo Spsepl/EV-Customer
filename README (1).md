@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/Spsepl/EV-Customer/blob/b46b695b51186e8702a92f8c2b64c33febcc8211/logo.png)
+![Company Logo](https://raw.githubusercontent.com/Spsepl/EV-Customer/b46b695b51186e8702a92f8c2b64c33febcc8211/logo.png)
 
 # Live Customer List
 
