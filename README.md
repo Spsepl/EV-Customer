@@ -2,34 +2,73 @@
 
 # Live Customer List
 
-A simple web application to manage a live list of customers, including add, edit, and delete functionalities. The interface is built using Bootstrap 4 and jQuery for dynamic table operations and modal forms.
+A simple and responsive web application to manage a live list of Electric Vehicle (EV) customers. You can **Add**, **Edit**, and **Delete** customers using Bootstrap modals and dynamic HTML table.
+
+---
 
 ## 🚀 Features
 
-- **Add Customer**: Use the "Add Customer" button to open a modal and add new customer details.
-- **Edit Customer**: Click "Edit" next to any customer to update their information using a modal form.
-- **Delete Customer**: Remove a customer from the list with a confirmation prompt.
-- **Live Table**: All operations are performed instantly on the table, no backend required.
-- **Responsive Design**: Built with Bootstrap 4 for a pleasant experience on all devices.
+- ✅ Add Customer
+- ✅ Edit Customer
+- ✅ Delete Customer
+- ✅ Live Dynamic Table
+- ✅ Bootstrap 4 UI
+- ✅ jQuery DOM Manipulation
+- ✅ Fully Responsive – works on mobile and desktop
 
-## 🧪 Usage
+---
+
+## 🖥️ Usage
 
 1. **Clone or Download** this repository.
-2. Open `index.html` in your web browser.
+2. Ensure `index.html` and `logo.png` are in the same directory.
+3. Open `index.html` in your browser.
 
-> Note: All data is stored in memory and will be lost when the page is refreshed.
+---
 
-## 📦 Dependencies
+## 🧩 File Structure
+
+
+---
+
+## 🔗 Demo
+
+**Live Site**: [ev-customer.vercel.app](https://ev-customer.vercel.app)
+
+---
+
+## 📦 Dependencies (via CDN)
 
 - [Bootstrap 4.6](https://getbootstrap.com/)
 - [jQuery 3.5+](https://jquery.com/)
 
-These are included via CDN in the HTML file.
+These libraries are included using CDN links in the HTML file.
 
-## 🔧 Customization
+---
 
-To persist data or integrate with a database, backend code would be required. This project is intended as a front-end demo or starter template.
+## 🛠️ Customization
+
+To make this app store data permanently, you can integrate it with:
+
+- Firebase / Supabase
+- A custom backend API (Node.js / PHP / Python)
+- Google Sheets using Apps Script
+
+---
 
 ## 📄 License
 
-This project is open source and free to use.
+This project is open-source and free to use for personal or commercial purposes.
+
+---
+
+## 🤝 Contributing
+
+Found an issue or want to improve something?  
+Feel free to fork the repo, raise an issue, or submit a pull request!
+
+---
+
+## 👨‍💻 Developed By
+
+[Spsepl Team](https://github.com/Spsepl)
