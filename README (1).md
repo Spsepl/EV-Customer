@@ -1,3 +1,4 @@
+![Image Alt](https://github.com/Spsepl/EV-Customer/blob/07f0855a7e975262b2d8b925ec51d304a0cf2ee0/Trijoshh%20logo.png)
 # Live Customer List
 
 A simple web application to manage a live list of customers, including add, edit, and delete functionalities. The interface is built using Bootstrap 4 and jQuery for dynamic table operations and modal forms.
